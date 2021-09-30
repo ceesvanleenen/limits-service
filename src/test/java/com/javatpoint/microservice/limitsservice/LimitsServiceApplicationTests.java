@@ -10,4 +10,8 @@ class LimitsServiceApplicationTests {
 	void contextLoads() {
 	}
 
+	@Test
+	void thisTestShouldFail() {
+		assert 2 == 3;
+	}
 }
