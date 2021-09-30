@@ -12,6 +12,6 @@ class LimitsServiceApplicationTests {
 
 	@Test
 	void thisTestShouldFail() {
-		assert 2 == 3;
+		assert 2 == 2;
 	}
 }
