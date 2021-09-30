@@ -1,7 +1,6 @@
 version: 2
 jobs: # a collection of steps
   build: # a build job as entry point
-
     working_directory: ~/circleci-demo-java-spring
 
     docker:
